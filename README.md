@@ -28,7 +28,7 @@ java -version
    - Alternatively, clone it via Git:
 
 ```
-git clone https://github.com/your-username/gym-management-java.git
+git clone https://github.com/3-sujal/gym-management-java.git
 ```
 
 2. **Navigate to the project directory:**
